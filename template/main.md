@@ -1,8 +1,23 @@
 ---
-Keywords:
+Keywords: ネギ
 Copyright:todayokgo
 ---
 
-# title
+# ねぎの惑星
 
-write contents here.
+ラーメン、ラーメン
+
+* [白ネギへジャンプ](#white)
+
+## AO negi
+
+![blue negi](./green_negi.jpg)
+
+## <span id="white">White negi</span>
+
+![](white_negi.jpg)
+
+## Document
+
+[Negi.pdf](negi.pdf)
+[wikipedia](https://ja.wikipedia.org/wiki/)
