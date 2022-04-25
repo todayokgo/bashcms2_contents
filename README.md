@@ -1,1 +1,0 @@
-# bashcms2_contents
